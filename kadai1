@@ -1,3 +1,4 @@
+```uml
 @stratuml
 strat
 
@@ -11,3 +12,4 @@ endif
 
 end
 @enduml
+```
