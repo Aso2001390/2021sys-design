@@ -1,6 +1,5 @@
 ```uml
   @startuml
-  Alice -> Bob: Request
-  Bob --> Alice: Response
+  :体力=10;
   @enduml
   ```
