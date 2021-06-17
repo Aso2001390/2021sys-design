@@ -1,4 +1,4 @@
-public class DrSystem {
+public class Karte {
     public static void main(String[] args)
         Karte.hospitalName = "福岡病院";
         Karte.hospitalTel = "092-1234-5678";
